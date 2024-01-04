@@ -22,6 +22,7 @@ packages:
   crux-mir/
   crucible-mc/
   uc-crux-llvm/
+  crucible-pcode/
 
 optional-packages:
   dependencies/golang/
